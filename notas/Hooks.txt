@@ -1,0 +1,16 @@
+Categorías de Hooks: 
+
+  Los comunes: 
+    useState
+    useEffect
+    useContext
+
+
+  Los adicionales son:
+    useReducer
+    useCallback
+    useMemo
+    useRef
+    useImperativeHandle
+    useLayoutEffect
+    useDebugValue

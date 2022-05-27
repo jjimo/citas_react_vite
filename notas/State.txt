@@ -1,0 +1,9 @@
+El Estado (State) es el estado de la aplicación.
+
+El State es una variable con información relevante en la aplicación de React. Algunas veces el State pertenece a un componente en específico
+o algunas pueda compartirse a lo largo de diferentes componentes.
+
+Es creado con la función de useState(). Ejemplo: 
+
+const [cliente, setCliente] = useState({});
+
